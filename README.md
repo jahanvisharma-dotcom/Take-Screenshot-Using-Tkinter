@@ -4,3 +4,5 @@
 
 To Run this Project you Need to Install a Library :
 
+<h1> pip install pyautogui </h1>
+
